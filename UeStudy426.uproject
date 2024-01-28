@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CD8F7E36-41DF-2778-9825-518C06F81A88}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UeStudy426",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "RenderDocPlugin",
+			"Enabled": true
+		}
+	]
+}
